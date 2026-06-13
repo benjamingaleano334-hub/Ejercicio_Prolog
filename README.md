@@ -182,7 +182,7 @@ hasBroom(X) :- quidditchPlayer(X) .
 5. Mago(harry)
 6. mago(Y)
 7. bruja(Y)
-8. mago(Y)
+
 
 **Respuestas**
 
