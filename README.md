@@ -140,7 +140,7 @@ asesino(butch).
 casados(mia, marsellus).
 casados(marsellus, mia).
 ```
-*(se suele poner en ambos sentidos para que sea simétrico)*
+
 
 3. **Zed ha muerto.**  
 ```prolog
